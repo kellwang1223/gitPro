@@ -4,7 +4,4 @@
 2015Äê9ÔÂ15ÈÕ09:37:41
 Creating a new branch is quick.
 
-
-
-Creating a new branch is quick & simple.
-
+Creating a new branch is quick and simple.
